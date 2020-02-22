@@ -1,0 +1,65 @@
+html,body {
+	width: 100%;
+	height: 100%;
+}
+body {
+	padding: 0 2% 2% 2%;
+}
+.title{
+	text-align: center;
+}
+
+.float-left-child {
+  float: left
+}
+
+
+.inline-block-child {
+  display: inline-block;
+}
+
+
+.parent {
+	margin-top: 5px;
+ 	background: #75B3F9;
+ 	 padding: 2%;
+ 	 border:20px solid #070068;
+
+}
+
+.box2{
+	background-color: #304A67;
+	margin-bottom: 40px;
+	border:10px solid #0071BC;
+  	padding:20px;
+}
+
+.child {
+	margin-left: 40px;
+	background-color: #75B3F9;
+  	border: 10px solid #FFFFFF;
+  	padding: 2rem;
+  	width:20%;
+  	text-align:center;
+  
+}
+.test{
+	margin-bottom: 100px;
+	background-color: #304A67;
+	border:10px solid #0071BC;
+	padding: 10%;
+	text-align: center;
+	font-size: 40px;
+	color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
